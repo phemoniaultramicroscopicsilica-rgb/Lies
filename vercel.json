@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/check-code.js": {
+      "maxDuration": 10
+    }
+  }
+}
